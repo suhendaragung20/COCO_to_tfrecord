@@ -1,0 +1,3 @@
+Letakan data gambar COCO di folder ini!
+Pastikan untuk membuat folder versi datasetnya terlebih dahulu, misal "train2017" atau "val2017", dan tidak langsung
+meletakan file (.jpg) pada folder "ms_coco" ini.
