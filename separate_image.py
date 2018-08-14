@@ -8,7 +8,7 @@ import argparse
 # python separate_image.py --dataset_dir val2017 --xml_dir val_xml --class_image vase
 
 # PERSON
-# python separate_image.py --dataset_dir val2017 --xml_dir val_xml --class_image vase
+# python separate_image.py --dataset_dir val2017 --xml_dir val_xml --class_image tv
 
 
 
